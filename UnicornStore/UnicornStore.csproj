@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <Description>Unicorn store application on ASP.NET Core</Description>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <UserSecretsId>45b651b1-da6a-44fb-af93-525b292efddb</UserSecretsId>
   </PropertyGroup>
 
